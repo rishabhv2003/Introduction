@@ -1,3 +1,4 @@
 - 👋 Hi, I’m Rishabh Verma
 - 🌱 I’m currently learning web development.
+- ✍ Persuing B.Tech. from Dayalbagh Educational Institute.
 - 📫 my linkedIn link : www.linkedin.com/in/rishabh-verma-2148741ba
